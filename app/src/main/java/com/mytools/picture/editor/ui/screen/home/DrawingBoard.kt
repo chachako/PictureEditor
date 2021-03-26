@@ -16,7 +16,7 @@ import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.unit.dp
 import com.mytools.picture.editor.ui.composable.CoilImage
 import com.mytools.picture.editor.ui.composable.Icon
-import com.mytools.picture.editor.ui.viewmodel.DrawingBoardViewModel
+import com.mytools.picture.editor.ui.screen.home.viewmodel.DrawingBoardViewModel
 
 @Composable
 fun DrawingBoard(drawingBoard: DrawingBoardViewModel) {

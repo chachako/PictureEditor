@@ -20,8 +20,8 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltNavGraphViewModel
 import com.meowbase.toolkit.that
 import com.mytools.picture.editor.ui.composable.animateAsState
-import com.mytools.picture.editor.ui.viewmodel.DrawingBoardViewModel
-import com.mytools.picture.editor.ui.viewmodel.ToolsViewModel
+import com.mytools.picture.editor.ui.screen.home.viewmodel.DrawingBoardViewModel
+import com.mytools.picture.editor.ui.screen.home.viewmodel.ToolsViewModel
 
 @Composable
 fun Screen() {

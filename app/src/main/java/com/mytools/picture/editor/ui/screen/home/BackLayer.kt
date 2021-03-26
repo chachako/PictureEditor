@@ -21,7 +21,7 @@ import com.mytools.picture.editor.model.BackdropDivider
 import com.mytools.picture.editor.model.BackdropItem
 import com.mytools.picture.editor.ui.composable.Icon
 import com.mytools.picture.editor.ui.composable.clickable
-import com.mytools.picture.editor.ui.viewmodel.DrawingBoardViewModel
+import com.mytools.picture.editor.ui.screen.home.viewmodel.DrawingBoardViewModel
 
 @Composable
 fun BackLayer(drawingBoard: DrawingBoardViewModel) {

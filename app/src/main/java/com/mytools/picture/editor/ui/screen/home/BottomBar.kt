@@ -16,7 +16,7 @@ import androidx.compose.ui.unit.sp
 import com.mytools.picture.editor.ui.composable.Icon
 import com.mytools.picture.editor.ui.theme.currentColors
 import com.mytools.picture.editor.ui.theme.currentTypography
-import com.mytools.picture.editor.ui.viewmodel.ToolsViewModel
+import com.mytools.picture.editor.ui.screen.home.viewmodel.ToolsViewModel
 
 @Composable
 fun BottomBar(tools: ToolsViewModel, modifier: Modifier) {
